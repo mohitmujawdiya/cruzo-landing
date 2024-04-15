@@ -30,8 +30,8 @@ body{
 }
 
 .main-title h2{
-    font-size: 4rem;
-    font-weight: 800;
+    font-size: 3rem;
+    font-weight: 500;
 }
 
 .svg-img{
@@ -133,7 +133,7 @@ svg{
     }
     
     .main-title h2{
-        font-size: 3rem;
+        font-size: 2rem;
         font-weight: 400;
         text-transform: uppercase;
     }
@@ -150,7 +150,7 @@ svg{
         }
         
         .main-title h2{
-            font-size: 4rem;
+            font-size: 3rem;
             font-weight: 500;
             text-transform: uppercase;
         }
@@ -168,7 +168,7 @@ svg{
         }
         
         .main-title h2{
-            font-size: 5rem;
+            font-size: 4rem;
             font-weight: 700;
             text-transform: uppercase;
         }
@@ -185,7 +185,7 @@ svg{
         }
         
         .main-title h2{
-            font-size: 5rem;
+            font-size: 4rem;
             font-weight: 700;
             text-transform: uppercase;
         }
