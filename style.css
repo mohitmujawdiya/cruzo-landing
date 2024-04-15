@@ -31,7 +31,12 @@ body{
 
 .main-title h2{
     font-size: 4rem;
-    font-weight: 300;
+    font-weight: 500;
+}
+
+.main-title h3{
+    font-size: 4rem;
+    font-weight: 500;
 }
 
 .svg-img{
